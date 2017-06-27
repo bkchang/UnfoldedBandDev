@@ -12,6 +12,6 @@ This script computes the average root-mean square deviation per eigenvalue of a 
 1. This script omits degeneracies in PC spectrum. If one needs it, one should implement it by him/herself.
 2. The output figures are as follows:
 
-..* PC.png --- PC spectrum
-..* SC_raw.png --- SC intensity profile before preprocessing
-..* SC_refined.png --- Preprocessed SC intensity profile with noise removal and bottom of valence band alignment
+  * PC.png --- PC spectrum
+  * SC_raw.png --- SC intensity profile before preprocessing
+  * SC_refined.png --- Preprocessed SC intensity profile with noise removal and bottom of valence band alignment
