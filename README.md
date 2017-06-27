@@ -1,5 +1,5 @@
 # UnfoldedBandDev
-This script computes the average root-mean square deviation per eigenvalue of a BandUP output file from a primitive cell (PC) spectrum.
+This script computes the average root-mean square-deviation per eigenvalue of a BandUP output file from a primitive cell (PC) spectrum.
 
 1. Choose an k-mesh for your PC calculation and calculate it with VASP.
 2. Use BandUP to unfold a supercell (SC) band structure onto the k-points of the k-mesh.
